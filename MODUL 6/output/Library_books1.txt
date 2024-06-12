@@ -1,0 +1,42 @@
+a. ID buku         :   2023
+b. Judul buku      :   ketika sendiri
+c. Nama author     :   NF_Ramz
+d. Jumlah halaman  :   234
+e. Genre_buku      :   romance
+
+a. ID buku         :   2021
+b. Judul buku      :   nana
+c. Nama author     :   nunu
+d. Jumlah halaman  :   231
+e. Genre_buku      :   tutu
+
+a. ID buku         :   1
+b. Judul buku      :   qwqw
+c. Nama author     :   asda
+d. Jumlah halaman  :   1231
+e. Genre_buku      :   rom
+
+a. ID buku         :   2019
+b. Judul buku      :   asda
+c. Nama author     :   asda
+d. Jumlah halaman  :   12
+e. Genre_buku      :   asd
+
+a. ID buku         :   202
+b. Judul buku      :   as
+c. Nama author     :   a
+d. Jumlah halaman  :   2
+e. Genre_buku      :   a
+
+a. ID buku         :   201
+b. Judul buku      :   a
+c. Nama author     :   a
+d. Jumlah halaman  :   1
+e. Genre_buku      :   a
+
+a. ID buku         :   20201
+b. Judul buku      :   naufal
+c. Nama author     :   ramzi
+d. Jumlah halaman  :   1
+e. Genre_buku      :   1
+
